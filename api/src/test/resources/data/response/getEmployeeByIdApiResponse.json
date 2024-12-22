@@ -1,0 +1,11 @@
+{
+  "data": {
+    "id": "cfb40208-a9ce-4137-8948-0b42f73c041a",
+    "employee_name": "Arleen Effertz",
+    "employee_salary": 394222,
+    "employee_age": 57,
+    "employee_title": "International Design Administrator",
+    "employee_email": "stim@company.com"
+  },
+  "status": "Successfully processed request."
+}

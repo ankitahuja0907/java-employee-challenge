@@ -1,0 +1,10 @@
+{
+  "status": "success",
+  "data": {
+    "id": 1,
+    "employee_name": "Luke Skywalker",
+    "employee_salary": 300000,
+    "employee_age": 19
+  },
+  "message": "Successfully! Record has been fetched."
+}
